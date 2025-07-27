@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CentralParkExplorer" version="1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 
+     http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <desc>Simulated full walk through Central Park for testing 100% exploration</desc>
+  </metadata>
+
+  <!-- Walking north along Central Park's main path -->
+  <wpt lat="40.7655" lon="-73.9760"><name>Start</name></wpt>
+  <wpt lat="40.7670" lon="-73.9748"><name>1</name></wpt>
+  <wpt lat="40.7685" lon="-73.9735"><name>2</name></wpt>
+  <wpt lat="40.7700" lon="-73.9720"><name>3</name></wpt>
+  <wpt lat="40.7720" lon="-73.9705"><name>4</name></wpt>
+  <wpt lat="40.7740" lon="-73.9690"><name>5</name></wpt>
+  <wpt lat="40.7760" lon="-73.9675"><name>6</name></wpt>
+  <wpt lat="40.7780" lon="-73.9660"><name>7</name></wpt>
+  <wpt lat="40.7800" lon="-73.9645"><name>8</name></wpt>
+  <wpt lat="40.7820" lon="-73.9630"><name>9</name></wpt>
+  <wpt lat="40.7840" lon="-73.9615"><name>10</name></wpt>
+  <wpt lat="40.7860" lon="-73.9600"><name>11</name></wpt>
+  <wpt lat="40.7880" lon="-73.9585"><name>12</name></wpt>
+  <wpt lat="40.7900" lon="-73.9570"><name>13</name></wpt>
+  <wpt lat="40.7920" lon="-73.9560"><name>14</name></wpt>
+  <wpt lat="40.7940" lon="-73.9565"><name>15</name></wpt>
+  <wpt lat="40.7960" lon="-73.9580"><name>End</name></wpt>
+  <!-- Walking south along the western path of Central Park -->
+  <wpt lat="40.7945" lon="-73.9600"><name>16</name></wpt>
+  <wpt lat="40.7930" lon="-73.9618"><name>17</name></wpt>
+  <wpt lat="40.7910" lon="-73.9633"><name>18</name></wpt>
+  <wpt lat="40.7890" lon="-73.9648"><name>19</name></wpt>
+  <wpt lat="40.7870" lon="-73.9662"><name>20</name></wpt>
+  <wpt lat="40.7850" lon="-73.9676"><name>21</name></wpt>
+  <wpt lat="40.7830" lon="-73.9690"><name>22</name></wpt>
+  <wpt lat="40.7810" lon="-73.9704"><name>23</name></wpt>
+  <wpt lat="40.7790" lon="-73.9718"><name>24</name></wpt>
+  <wpt lat="40.7770" lon="-73.9732"><name>25</name></wpt>
+  <wpt lat="40.7750" lon="-73.9746"><name>26</name></wpt>
+  <wpt lat="40.7730" lon="-73.9760"><name>27</name></wpt>
+  <wpt lat="40.7710" lon="-73.9770"><name>28</name></wpt>
+  <wpt lat="40.7690" lon="-73.9775"><name>29</name></wpt>
+  <wpt lat="40.7675" lon="-73.9770"><name>30</name></wpt>
+  <wpt lat="40.7655" lon="-73.9760"><name>Back at Start</name></wpt>
+  <!-- Zig-zag path down the eastern side of Central Park -->
+  <wpt lat="40.7655" lon="-73.9755"><name>31</name></wpt>
+  <wpt lat="40.7665" lon="-73.9735"><name>32</name></wpt>
+  <wpt lat="40.7675" lon="-73.9750"><name>33</name></wpt>
+  <wpt lat="40.7685" lon="-73.9730"><name>34</name></wpt>
+  <wpt lat="40.7695" lon="-73.9745"><name>35</name></wpt>
+  <wpt lat="40.7705" lon="-73.9725"><name>36</name></wpt>
+  <wpt lat="40.7715" lon="-73.9740"><name>37</name></wpt>
+  <wpt lat="40.7725" lon="-73.9720"><name>38</name></wpt>
+  <wpt lat="40.7735" lon="-73.9735"><name>39</name></wpt>
+  <wpt lat="40.7745" lon="-73.9715"><name>40</name></wpt>
+  <wpt lat="40.7755" lon="-73.9730"><name>41</name></wpt>
+  <wpt lat="40.7765" lon="-73.9710"><name>42</name></wpt>
+  <wpt lat="40.7775" lon="-73.9725"><name>43</name></wpt>
+  <wpt lat="40.7785" lon="-73.9705"><name>44</name></wpt>
+  <wpt lat="40.7795" lon="-73.9720"><name>45</name></wpt>
+  <wpt lat="40.7805" lon="-73.9700"><name>46</name></wpt>
+  <wpt lat="40.7815" lon="-73.9715"><name>47</name></wpt>
+  <wpt lat="40.7825" lon="-73.9695"><name>48</name></wpt>
+  <wpt lat="40.7835" lon="-73.9710"><name>49</name></wpt>
+  <wpt lat="40.7845" lon="-73.9690"><name>50</name></wpt>
+  <wpt lat="40.7855" lon="-73.9705"><name>51</name></wpt>
+  <wpt lat="40.7865" lon="-73.9685"><name>52</name></wpt>
+  <wpt lat="40.7875" lon="-73.9700"><name>53</name></wpt>
+  <wpt lat="40.7885" lon="-73.9680"><name>54</name></wpt>
+  <wpt lat="40.7895" lon="-73.9695"><name>55</name></wpt>
+  <wpt lat="40.7905" lon="-73.9675"><name>56</name></wpt>
+  <wpt lat="40.7915" lon="-73.9690"><name>57</name></wpt>
+  <wpt lat="40.7925" lon="-73.9670"><name>58</name></wpt>
+  <wpt lat="40.7935" lon="-73.9685"><name>59</name></wpt>
+  <wpt lat="40.7945" lon="-73.9665"><name>60</name></wpt>
+
+</gpx>

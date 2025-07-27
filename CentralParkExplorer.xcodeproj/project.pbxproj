@@ -27,6 +27,8 @@
 		7F7EC9FC2E318D5400621B8B /* CentralParkExplorer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CentralParkExplorer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7ECA122E318D5700621B8B /* CentralParkExplorerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CentralParkExplorerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7ECA1C2E318D5700621B8B /* CentralParkExplorerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CentralParkExplorerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F7ECA782E32A5F000621B8B /* Central Park Loop pokemon route.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Central Park Loop pokemon route.gpx"; sourceTree = "<group>"; };
+		7F7ECA792E32A7C600621B8B /* CPW.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = CPW.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +90,8 @@
 		7F7EC9F32E318D5400621B8B = {
 			isa = PBXGroup;
 			children = (
+				7F7ECA792E32A7C600621B8B /* CPW.gpx */,
+				7F7ECA782E32A5F000621B8B /* Central Park Loop pokemon route.gpx */,
 				7F7EC9FE2E318D5400621B8B /* CentralParkExplorer */,
 				7F7ECA152E318D5700621B8B /* CentralParkExplorerTests */,
 				7F7ECA1F2E318D5700621B8B /* CentralParkExplorerUITests */,

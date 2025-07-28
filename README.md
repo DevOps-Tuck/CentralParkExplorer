@@ -23,8 +23,14 @@ Welcome to **Central Park Explorer** — a beautifully interactive iOS app that 
 
 
 ```
-git clone https://github.com/DevOps-Tuck/CentralParkExplorer.git
-cd CentralParkExplorer
+# Clone the repository
+git clone https://github.com/your-username/explore-central-park.git
+
+# Change into the project directory
+cd explore-central-park
+
+# (iOS) Open the project in Xcode
+open ExploreCentralPark.xcodeproj
 ```
 ## open CentralParkExplorer.xcodeproj
 - Run the project on an iOS simulator or real device.

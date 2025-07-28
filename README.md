@@ -17,34 +17,32 @@ Welcome to **Central Park Explorer** — a beautifully interactive iOS app that 
 
 ---
 
-## 📷 Screenshots
-
-> Add these later after you push screenshots to `screenshots/` and link them here.
-
----
-
 ## 📦 Installation (Local Dev)
 
 1. **Clone the repo:**
 
-```bash
-git clone https://github.com/YOUR_USERNAME/CentralParkExplorer.git
-cd CentralParkExplorer
 
-open CentralParkExplorer.xcodeproj
-	3.	Run the project on an iOS simulator or real device.
-	4.	GPX Simulation (Optional):
-	•	Use one of the provided GPX files to simulate walking routes in Xcode.
-	•	Choose a GPX file from the project folder and run it via the simulator’s “Features > Location > Custom Location” option.
+```
+git clone https://github.com/DevOps-Tuck/CentralParkExplorer.git
+cd CentralParkExplorer
+```
+## open CentralParkExplorer.xcodeproj
+- Run the project on an iOS simulator or real device.
+- GPX Simulation (Optional):
+- Use one of the provided GPX files to simulate walking routes in Xcode.
+- Choose a GPX file from the project folder and run it via the simulator’s “Features > Location > Custom Location” option.
 
 ⸻
 
-🛠 Project Structure
-	•	ViewController.swift — Main map UI with tile logic and toast rendering.
-	•	IntroViewController.swift — Welcome screen with badge icons and start button.
-	•	Badge.swift — Milestone tracking and display logic.
-	•	CentralParkFullWalk.gpx — Full route simulation inside Central Park.
-	•	screenshots/ — Optional screenshots for the README display.
+## 🛠 Project Structure
+- ViewController.swift
+— Main map UI with tile logic and toast rendering.
+- IntroViewController.swift — Welcome screen with badge icons and start button.
+- Badge.swift — Milestone tracking and display logic.
+- CentralParkFullWalk.gpx — Full route simulation inside Central Park.
+
+
+⸻
 
 Milestone
 Badges
